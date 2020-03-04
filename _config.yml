@@ -12,7 +12,7 @@ github_repo: "https://github.com/raymon-tian/raymon-tian.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "点滴积累才能张开一个空间"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_dt.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
