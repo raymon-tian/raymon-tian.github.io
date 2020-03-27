@@ -35,6 +35,11 @@ tags:
 * 【MLSys2020】[PoET-BiN: Power Efficient Tiny Binary Neurons](https://arxiv.org/pdf/2002.09794.pdf)
 * [sBSNN: Stochastic-Bits Enabled Binary Spiking Neural Network with On-Chip Learning for Energy Efficient Neuromorphic Computing at the Edge](https://arxiv.org/pdf/2002.11163.pdf)
 * 【intel】【Framework】[**Neural Network Compression Framework for fast model inference**](https://arxiv.org/pdf/2002.08679.pdf)
+* 【ICLR2020】[Precision Gating: Improving Neural Network Efficiency with Dynamic Dual-Precision Activations](https://arxiv.org/pdf/2002.07136.pdf)
+* 【ICLR2020】[BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations](https://arxiv.org/pdf/2002.06517.pdf)
+* [Learning Architectures for Binary Networks](https://arxiv.org/pdf/2002.06963.pdf)
+* [Exploring the Connection Between Binary and Spiking Neural Networks](Exploring the Connection Between Binary and Spiking Neural Networks)
+* [Training Binary Neural Networks using the Bayesian Learning Rule](https://arxiv.org/pdf/2002.10778.pdf)
 * 
 
 # pruning
@@ -55,6 +60,10 @@ tags:
 * [Gradual Channel Pruning while Training using Feature Relevance Scores for Convolutional Neural Networks](https://arxiv.org/pdf/2002.09958.pdf)
 * [HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/pdf/2002.10179.pdf)
 * [On Pruning Adversarially Robust Neural Networks](https://arxiv.org/pdf/2002.10509.pdf)
+* [Calibrate and Prune: Improving Reliability of Lottery Tickets Through Prediction Calibration](https://arxiv.org/pdf/2002.03875.pdf)
+* 【Oxford】[Pruning untrained neural networks: Principles and Analysis](https://arxiv.org/pdf/2002.08797.pdf)
+* 【MNN,MLSys2020】[MNN: A Universal and Efficient Inference Engine](https://arxiv.org/pdf/2002.12418.pdf)
+* 
 
 # distillation
 
@@ -62,12 +71,15 @@ tags:
 
 * [Understanding and Improving Knowledge Distillation](https://arxiv.org/pdf/2002.03532.pdf)
 * 【NLP】[TwinBERT: Distilling Knowledge to Twin-Structured BERT Models for Efficient Retrieval](https://arxiv.org/pdf/2002.06275.pdf)
+* [Residual Knowledge Distillation](https://arxiv.org/pdf/2002.09168.pdf)
+* [An Efficient Method of Training Small Models for Regression Problems with Knowledge Distillation](An Efficient Method of Training Small Models for Regression Problems with Knowledge Distillation)
 * 
 
 # NAS
 
 ## arxiv2002
 
+* [Learning Architectures for Binary Networks](https://arxiv.org/pdf/2002.06963.pdf)
 * 
 
 # others
@@ -79,6 +91,11 @@ tags:
 * 【HPCA2020】[SpArch: Efficient Architecture for Sparse Matrix Multiplication](https://arxiv.org/pdf/2002.08947.pdf)
 * [A Systematic Survey of General Sparse Matrix-Matrix Multiplication](https://arxiv.org/pdf/2002.11273.pdf)
 * [Communication-Efficient Edge AI: Algorithms and Systems](https://arxiv.org/pdf/2002.09668.pdf)
+* [Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration](https://arxiv.org/pdf/2002.08326.pdf)
+* 【DATE2020】[TFApprox: Towards a Fast Emulation of DNN Approximate Hardware Accelerators on GPU](https://arxiv.org/pdf/2002.09481.pdf)
+* 【IC2E2020】[MDInference: Balancing Inference Accuracy and Latency for Mobile Applications](MDInference: Balancing Inference Accuracy and Latency for Mobile Applications)
+* [HOTCAKE: Higher Order Tucker Articulated Kernels for Deeper CNN Compression](https://arxiv.org/pdf/2002.12663.pdf)
+* 
 
 
 
@@ -86,9 +103,16 @@ tags:
 
 * [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers)
 * [Compressing Large-Scale Transformer-Based Models: A Case Study on BERT](https://arxiv.org/pdf/2002.11985.pdf)
+* [Improving BERT Fine-Tuning via Self-Ensemble and Self-Distillation](https://arxiv.org/pdf/2002.10345.pdf)
+* [MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://arxiv.org/pdf/2002.10957.pdf)
+* 【Framework】[TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing](https://arxiv.org/pdf/2002.12620.pdf)
 * 
 
 
 
 
 
+# Training Acceleration
+
+* [STANNIS: Low-Power Acceleration of Deep Neural Network Training Using Computational Storage](https://arxiv.org/pdf/2002.07215.pdf)
+* 
