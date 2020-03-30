@@ -17,6 +17,14 @@ tags:
 
 # quantization
 
+## arxiv2001
+
+* 【CVPR2020】[ZeroQ: A Novel Zero Shot Quantization Framework](ZeroQ: A Novel Zero Shot Quantization Framework)
+* 【Apple】[Least squares binary quantization of neural networks](https://arxiv.org/pdf/2001.02786.pdf)
+* [RPR: Random Partition Relaxation for Training; Binary and Ternary Weight Neural Networks](https://arxiv.org/pdf/2001.01091.pdf)
+* 【ICLR2020】[Shifted and Squeezed 8-bit Floating Point format for Low-Precision Training of Deep Neural Networks](https://arxiv.org/pdf/2001.05674.pdf)
+* 【Alibaba】[MeliusNet: Can Binary Neural Networks Achieve MobileNet-level Accuracy?](https://arxiv.org/pdf/2001.05936.pdf)
+
 ## arxiv2002
 
 * [Automatic Pruning for Quantized Neural Networks](https://arxiv.org/pdf/2002.00523.pdf)
@@ -40,9 +48,19 @@ tags:
 * [Learning Architectures for Binary Networks](https://arxiv.org/pdf/2002.06963.pdf)
 * [Exploring the Connection Between Binary and Spiking Neural Networks](Exploring the Connection Between Binary and Spiking Neural Networks)
 * [Training Binary Neural Networks using the Bayesian Learning Rule](https://arxiv.org/pdf/2002.10778.pdf)
-* 
 
 # pruning
+
+## arxiv2001
+
+* 【ASPLOS2020-CCF-A】[PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://arxiv.org/pdf/2001.00138.pdf)
+* 【Extended version of the NeurIPS2018】[Discrimination-aware Network Pruning for Deep Model Compression](https://arxiv.org/pdf/2001.01050.pdf)
+* [Learning fine-grained search space pruning and heuristics for combinatorial optimization](https://arxiv.org/pdf/2001.01230.pdf)
+* [Investigation and Analysis of Hyper and Hypo neuron pruning to selectively update neurons during Unsupervised Adaptation](https://arxiv.org/pdf/2001.01755.pdf)
+* [Pruning Convolutional Neural Networks with Self-Supervision](https://arxiv.org/pdf/2001.03554.pdf)
+* [A “Network Pruning Network” Approach to Deep Model Compression](https://arxiv.org/pdf/2001.05545.pdf)
+* 【FB】[On Iterative Neural Network Pruning, Reinitialization, and the Similarity of Masks](https://arxiv.org/pdf/2001.05050.pdf)
+* 【CPAIOR2020-CCF-B】[Lossless Compression of Deep Neural Networks](https://arxiv.org/pdf/2001.00218.pdf)
 
 ## arxiv2002
 
@@ -63,9 +81,13 @@ tags:
 * [Calibrate and Prune: Improving Reliability of Lottery Tickets Through Prediction Calibration](https://arxiv.org/pdf/2002.03875.pdf)
 * 【Oxford】[Pruning untrained neural networks: Principles and Analysis](https://arxiv.org/pdf/2002.08797.pdf)
 * 【MNN,MLSys2020】[MNN: A Universal and Efficient Inference Engine](https://arxiv.org/pdf/2002.12418.pdf)
-* 
 
 # distillation
+
+## arxiv2001
+
+* [Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf)
+* [Hydra: Preserving Ensemble Diversity for Model Distillation](https://arxiv.org/pdf/2001.04694.pdf)
 
 ## arxiv2002
 
@@ -73,16 +95,18 @@ tags:
 * 【NLP】[TwinBERT: Distilling Knowledge to Twin-Structured BERT Models for Efficient Retrieval](https://arxiv.org/pdf/2002.06275.pdf)
 * [Residual Knowledge Distillation](https://arxiv.org/pdf/2002.09168.pdf)
 * [An Efficient Method of Training Small Models for Regression Problems with Knowledge Distillation](An Efficient Method of Training Small Models for Regression Problems with Knowledge Distillation)
-* 
 
 # NAS
 
 ## arxiv2002
 
 * [Learning Architectures for Binary Networks](https://arxiv.org/pdf/2002.06963.pdf)
-* 
 
 # others
+
+## arxiv2001
+
+* 【MLSys2020-workshop】[Efficient Memory Management for Deep Neural Net Inference](Efficient Memory Management for Deep Neural Net Inference)
 
 ## arxiv2002
 
@@ -95,7 +119,6 @@ tags:
 * 【DATE2020】[TFApprox: Towards a Fast Emulation of DNN Approximate Hardware Accelerators on GPU](https://arxiv.org/pdf/2002.09481.pdf)
 * 【IC2E2020】[MDInference: Balancing Inference Accuracy and Latency for Mobile Applications](MDInference: Balancing Inference Accuracy and Latency for Mobile Applications)
 * [HOTCAKE: Higher Order Tucker Articulated Kernels for Deeper CNN Compression](https://arxiv.org/pdf/2002.12663.pdf)
-* 
 
 
 
@@ -106,7 +129,7 @@ tags:
 * [Improving BERT Fine-Tuning via Self-Ensemble and Self-Distillation](https://arxiv.org/pdf/2002.10345.pdf)
 * [MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://arxiv.org/pdf/2002.10957.pdf)
 * 【Framework】[TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing](https://arxiv.org/pdf/2002.12620.pdf)
-* 
+* 【Alibaba】[AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search](https://arxiv.org/pdf/2001.04246.pdf)
 
 
 
@@ -115,4 +138,3 @@ tags:
 # Training Acceleration
 
 * [STANNIS: Low-Power Acceleration of Deep Neural Network Training Using Computational Storage](https://arxiv.org/pdf/2002.07215.pdf)
-* 
