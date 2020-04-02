@@ -49,6 +49,17 @@ tags:
 * [Exploring the Connection Between Binary and Spiking Neural Networks](Exploring the Connection Between Binary and Spiking Neural Networks)
 * [Training Binary Neural Networks using the Bayesian Learning Rule](https://arxiv.org/pdf/2002.10778.pdf)
 
+## arxiv2003
+
+* [Gradient-Based Deep Quantization of Neural Networks through Sinusoidal Adaptive Regularization](https://arxiv.org/pdf/2003.00146.pdf)
+* [Quantized Neural Network Inference with Precision Batching](https://arxiv.org/pdf/2003.00822.pdf)
+* [Generative Low-bitwidth Data Free Quantization](https://arxiv.org/pdf/2003.03603.pdf)
+* [Propagating Asymptotic-Estimated Gradients for Low Bitwidth Quantized Neural Networks](https://arxiv.org/pdf/2003.04296.pdf)
+* [Kernel Quantization for Efficient Network Compression](https://arxiv.org/pdf/2003.05148.pdf)
+* [SIMBA: A Skyrmionic In-Memory Binary Neural Network Accelerator](https://arxiv.org/pdf/2003.05132.pdf)
+* 【samsung】[BATS: Binary ArchitecTure Search](https://arxiv.org/pdf/2003.01711.pdf)
+* 【attention】[ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions](https://arxiv.org/pdf/2003.03488.pdf)
+
 # pruning
 
 ## arxiv2001
@@ -81,6 +92,20 @@ tags:
 * [Calibrate and Prune: Improving Reliability of Lottery Tickets Through Prediction Calibration](https://arxiv.org/pdf/2002.03875.pdf)
 * 【Oxford】[Pruning untrained neural networks: Principles and Analysis](https://arxiv.org/pdf/2002.08797.pdf)
 * 【MNN,MLSys2020】[MNN: A Universal and Efficient Inference Engine](https://arxiv.org/pdf/2002.12418.pdf)
+
+## arxiv2003
+
+* [Learned Threshold Pruning](https://arxiv.org/pdf/2003.00075.pdf)
+* [Sparsity Meets Robustness: Channel Pruning for the Feynman-Kac Formalism Principled Robust Deep Neural Nets](https://arxiv.org/pdf/2003.00631.pdf)
+* [Good Subnetworks Provably Exist: Pruning via Greedy Forward Selection](https://arxiv.org/pdf/2003.01794.pdf)
+* [Privacy-preserving Learning via Deep Net Pruning](https://arxiv.org/pdf/2003.01876.pdf)
+* 【ICLR2020】[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/pdf/2003.02389.pdf)
+* [Cluster Pruning: An Efficient Filter Pruning Method for Edge AI Vision Applications](https://arxiv.org/pdf/2003.02449.pdf)
+* [Pruning Filters while Training for Efficiently Optimizing Deep Learning Networks](https://arxiv.org/pdf/2003.02800.pdf)
+* 【MLSys2020】[What is the State of Neural Network Pruning?](https://arxiv.org/pdf/2003.03033.pdf)
+* [Morfessor EM+Prune: Improved Subword Segmentation with Expectation Maximization and Pruning](https://arxiv.org/pdf/2003.03131.pdf)
+* 【intel】[Channel Pruning via Optimal Thresholding](https://arxiv.org/pdf/2003.04566.pdf)
+* [AP-MTL: Attention Pruned Multi-task Learning Model for Real-time Instrument Detection and Segmentation in Robot-assisted Surgery](https://arxiv.org/pdf/2003.04769.pdf)
 
 # distillation
 
@@ -130,6 +155,7 @@ tags:
 * [MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://arxiv.org/pdf/2002.10957.pdf)
 * 【Framework】[TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing](https://arxiv.org/pdf/2002.12620.pdf)
 * 【Alibaba】[AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search](https://arxiv.org/pdf/2001.04246.pdf)
+* [Compact recurrent neural networks for acoustic event detection on low-energy low-complexity platforms](https://arxiv.org/pdf/2001.10876.pdf)
 
 
 
@@ -138,3 +164,4 @@ tags:
 # Training Acceleration
 
 * [STANNIS: Low-Power Acceleration of Deep Neural Network Training Using Computational Storage](https://arxiv.org/pdf/2002.07215.pdf)
+* 【Google】[Low-rank Gradient Approximation For Memory-Efficient On-device Training of Deep Neural Network](https://arxiv.org/pdf/2001.08885.pdf)
