@@ -9,8 +9,6 @@ catalog: true
 tags:
     - model.acceleration
     - paper.list
-
-
 ---
 
 > 模型压缩与加速论文列表
@@ -59,6 +57,12 @@ tags:
 * [SIMBA: A Skyrmionic In-Memory Binary Neural Network Accelerator](https://arxiv.org/pdf/2003.05132.pdf)
 * 【samsung】[BATS: Binary ArchitecTure Search](https://arxiv.org/pdf/2003.01711.pdf)
 * 【attention】[ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions](https://arxiv.org/pdf/2003.03488.pdf)
+* 【CVPR2020】[BiDet: An Efficient Binarized Object Detector](https://arxiv.org/pdf/2003.03961.pdf)
+* [Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks](https://arxiv.org/pdf/2003.13720.pdf)
+* [A Power-Efficient Binary-Weight Spiking Neural Network Architecture for Real-Time Object Classification](https://arxiv.org/pdf/2003.06310.pdf)
+* 【ICASSP2020】[LANCE: Efficient Low-Precision Quantized Winograd Convolution for Neural Networks Based on Graphics Processing Units](https://arxiv.org/pdf/2003.08646.pdf)
+* [Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML](Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML)
+* 【samsung】【ICLR2020】[Training Binary Neural Networks with Real-to-Binary Convolutions](https://arxiv.org/pdf/2003.11535.pdf)
 
 # pruning
 
@@ -106,6 +110,19 @@ tags:
 * [Morfessor EM+Prune: Improved Subword Segmentation with Expectation Maximization and Pruning](https://arxiv.org/pdf/2003.03131.pdf)
 * 【intel】[Channel Pruning via Optimal Thresholding](https://arxiv.org/pdf/2003.04566.pdf)
 * [AP-MTL: Attention Pruned Multi-task Learning Model for Real-time Instrument Detection and Segmentation in Robot-assisted Surgery](https://arxiv.org/pdf/2003.04769.pdf)
+* [SASL: Saliency-Adaptive Sparsity Learning for Neural Network Acceleration](https://arxiv.org/pdf/2003.05891.pdf)
+* [DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search](https://arxiv.org/pdf/2003.12563.pdf)
+* [How Not to Give a FLOP: Combining Regularization and Pruning for Efficient Inference](https://arxiv.org/pdf/2003.13593.pdf)
+* [DHP: Differentiable Meta Pruning via HyperNetworks](https://arxiv.org/pdf/2003.13683.pdf)
+* [Improved Gradient based Adversarial Attacks for Quantized Networks](https://arxiv.org/pdf/2003.13511.pdf)
+* [A Privacy-Preserving DNN Pruning and Mobile Acceleration Framework](https://arxiv.org/pdf/2003.06513.pdf)
+* 【AAAI2020】[Channel Pruning Guided by Classification Loss and Feature Importance](https://arxiv.org/pdf/2003.06757.pdf)
+* 【CVPR2020】[Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://arxiv.org/pdf/2003.08935.pdf)
+* [SPFCN: Select and Prune the Fully Convolutional Networks for Real-time Parking Slot Detection](https://arxiv.org/pdf/2003.11337.pdf)
+* [Event-based Asynchronous Sparse Convolutional Networks](Event-based Asynchronous Sparse Convolutional Networks)
+* 【ICLR2020-workshop】[Data Parallelism in Training Sparse Neural Networks](https://arxiv.org/pdf/2003.11316.pdf)
+* [MINT: Deep Network Compression via Mutual Information-based Neuron Trimming](MINT: Deep Network Compression via Mutual Information-based Neuron Trimming)
+* [DP-Net: Dynamic Programming Guided Deep Neural Network Compression](https://arxiv.org/pdf/2003.09615.pdf)
 
 # distillation
 
@@ -121,17 +138,32 @@ tags:
 * [Residual Knowledge Distillation](https://arxiv.org/pdf/2002.09168.pdf)
 * [An Efficient Method of Training Small Models for Regression Problems with Knowledge Distillation](An Efficient Method of Training Small Models for Regression Problems with Knowledge Distillation)
 
+## arxiv2003
+
+* [On the Unreasonable Effectiveness of Knowledge Distillation: Analysis in the Kernel Regime](https://arxiv.org/pdf/2003.13438.pdf)
+* [Squeezed Deep 6DoF Object Detection Using Knowledge Distillation](https://arxiv.org/pdf/2003.13586.pdf)
+* [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](Spatio-Temporal Graph for Video Captioning with Knowledge Distillation)
+* 【CVPR2020】[Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model](https://arxiv.org/pdf/2003.13960.pdf)
+* 【CVPR2020】[Regularizing Class-wise Predictions via Self-knowledge Distillation](Regularizing Class-wise Predictions via Self-knowledge Distillation)
+
 # NAS
 
 ## arxiv2002
 
 * [Learning Architectures for Binary Networks](https://arxiv.org/pdf/2002.06963.pdf)
 
+## arxiv2003
+
+* [PONAS: Progressive One-shot Neural Architecture Search for Very Efficient Deployment](https://arxiv.org/pdf/2003.05112.pdf)
+* [Accelerator-aware Neural Network Design using AutoML](https://arxiv.org/pdf/2003.02838.pdf)
+* 【Attention】**[Efficient Bitwidth Search for Practical Mixed Precision Neural Network](Efficient Bitwidth Search for Practical Mixed Precision Neural Network)**
+
 # others
 
-## arxiv2001
-
 * 【MLSys2020-workshop】[Efficient Memory Management for Deep Neural Net Inference](Efficient Memory Management for Deep Neural Net Inference)
+* [DNN+NeuroSim V2.0: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators for On-chip Training](https://arxiv.org/pdf/2003.06471.pdf)
+* [TanhExp: A Smooth Activation Function with High Convergence Speed for Lightweight Neural Networks](https://arxiv.org/pdf/2003.09855.pdf)
+* 【CVPR2020】[Resolution Adaptive Networks for Efficient Inference](Resolution Adaptive Networks for Efficient Inference)
 
 ## arxiv2002
 
@@ -145,8 +177,6 @@ tags:
 * 【IC2E2020】[MDInference: Balancing Inference Accuracy and Latency for Mobile Applications](MDInference: Balancing Inference Accuracy and Latency for Mobile Applications)
 * [HOTCAKE: Higher Order Tucker Articulated Kernels for Deeper CNN Compression](https://arxiv.org/pdf/2002.12663.pdf)
 
-
-
 # NLP
 
 * [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers)
@@ -156,10 +186,6 @@ tags:
 * 【Framework】[TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing](https://arxiv.org/pdf/2002.12620.pdf)
 * 【Alibaba】[AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search](https://arxiv.org/pdf/2001.04246.pdf)
 * [Compact recurrent neural networks for acoustic event detection on low-energy low-complexity platforms](https://arxiv.org/pdf/2001.10876.pdf)
-
-
-
-
 
 # Training Acceleration
 
